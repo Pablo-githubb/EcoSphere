@@ -66,12 +66,8 @@ El projecte pot ser desplegat en qualsevol servidor web estàtic com GitHub Page
 
 ## Llicència
 
-Aquest projecte està llicenciat sota Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
+Aquest treball està baix la llicència CC BY-NC-ND 4.0 
 
 ## Contacte
 
 Per a més informació, contacta'ns a: [info@ecosphere.cat](mailto:info@ecosphere.cat)
-
----
-
-Aquest treball està baix la llicència CC BY-NC-ND 4.0 
